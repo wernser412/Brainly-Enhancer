@@ -3,7 +3,7 @@
 // @namespace    https://brainly.lat/
 // @version      2026.07.14
 // @description  Google Search flotante (movible, redimensionable, colapsable y con posición guardada) + miniaturas automáticas de adjuntos en Brainly
-// @downloadURL  https://github.com/wernser412/Google-Search-on-Brainly/raw/refs/heads/main/Google%20Search%20in%20Movable%20&%20Resizable%20Box%20on%20Brainly.user.js
+// @downloadURL  https://github.com/wernser412/Brainly-Enhancer/raw/refs/heads/main/Brainly-Enhancer.user.js
 // @icon         https://github.com/wernser412/Google-Search-on-Brainly/raw/refs/heads/main/ICONO.ico
 // @author       wernser412
 // @match        https://brainly.lat/*
