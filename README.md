@@ -24,7 +24,7 @@ Todo funciona automáticamente y está integrado de forma nativa en la interfaz 
 
 2. Instala el script desde GitHub:
 
-**➡️ [Instalar Script](https://github.com/wernser412/Google-Search-on-Brainly/raw/refs/heads/main/Google%20Search%20in%20Movable%20%26%20Resizable%20Box%20on%20Brainly.user.js)**
+**➡️ [Instalar Script](https://github.com/wernser412/Brainly-Enhancer/raw/refs/heads/main/Brainly-Enhancer.user.js)**
 
 ---
 
